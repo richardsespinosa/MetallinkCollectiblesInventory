@@ -8,5 +8,5 @@ GitHubSQL2.sql - Script to create Tables
 GitHubSQL3.sql - Script to Alter a Column
 ![Screenshot 2026-03-19 163753](https://github.com/user-attachments/assets/cea2fe23-6a0d-4829-a250-83ab5980293d)
 
-GitHubSQL4.sql - Script to Add Data to Tables
+GitHubSQL4.sql - Script to Insert Data to Tables
 ![Screenshot 2026-03-24 154346](https://github.com/user-attachments/assets/0c74bb84-f5c0-4452-ab10-66b3a6a19bb7)
