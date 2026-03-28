@@ -10,3 +10,6 @@ GitHubSQL3.sql - Script to Alter a Column
 
 GitHubSQL4.sql - Script to Insert Data to Tables
 ![Screenshot 2026-03-24 154346](https://github.com/user-attachments/assets/0c74bb84-f5c0-4452-ab10-66b3a6a19bb7)
+
+GitHubSQL5.sql - Script to update multiple values in a Column
+![Screenshot 2026-03-28 143210](https://github.com/user-attachments/assets/64467feb-93eb-4d44-8655-08ab2d66ae7e)
